@@ -2,7 +2,7 @@
 
 **Instructions**
 * Create a folder.
-* Initialize a git repo whin that folder.
+* Initialize a git repo within that folder.
 * Create a readme file in the folder.
 * Make changes to the readme file.
 * Add the changes to the read me. Check the status of the repository. Then, leave  a commit message and check the status once more. 
