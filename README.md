@@ -1,8 +1,9 @@
 # Workflow
 
 **Instructions**
-* Initialize a github repo. 
-* Create a readme file within the repo.
+* Create a folder.
+* Initialize a git repo whin that folder.
+* Create a readme file in the folder.
 * Make changes to the readme file.
 * Add the changes to the read me. Check the status of the repository. Then, leave  a commit message and check the status once more. 
 * What command should you use to check the status of the repository? Write your answer in this readme. 
